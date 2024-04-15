@@ -1,0 +1,63 @@
+
+
+
+@font-face {
+    font-family: 'Press Start 2P';
+    src: url('./PressStart2P-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+.company-name {
+    margin-top: 20px;
+  font-family: "Press Start 2P",cursive;
+  text-transform: uppercase;
+  font-size: 6vw;
+  font-weight: bold;
+  text-align: center;
+  -webkit-text-stroke-width: 5px;
+  -webkit-text-stroke-color: black;
+  color: rgba(0, 0, 0, 0);
+  animation: changeStrokeColor 5s infinite;
+}
+
+
+@keyframes changeStrokeColor {
+  0% {
+      -webkit-text-stroke-color: red;
+  }
+  10% {
+      -webkit-text-stroke-color: orange;
+  }
+  20% {
+      -webkit-text-stroke-color: yellow;
+  }
+  30% {
+      -webkit-text-stroke-color: yellowgreen;
+  }
+  40% {
+      -webkit-text-stroke-color: greenyellow;
+  }
+  50% {
+      -webkit-text-stroke-color: green;
+  }
+  60% {
+      -webkit-text-stroke-color: cyan;
+  }
+  70% {
+      -webkit-text-stroke-color: blue;
+  }
+  80% {
+      -webkit-text-stroke-color: navy;
+  }
+  90% {
+      -webkit-text-stroke-color: blueviolet;
+  }
+  95% {
+      -webkit-text-stroke-color: palevioletred;
+  }100% {
+      -webkit-text-stroke-color: rgb(255, 0, 60);
+  }
+}
+
+
+

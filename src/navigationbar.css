@@ -1,0 +1,36 @@
+.navbar {
+  background-color: #260038;
+  color: #fff;
+  width: 100vw;
+
+}
+
+
+.nav-menu {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-item {
+  margin-right: 10vw;
+  margin-left: 10vw;
+}
+.nav-item:last-child {
+  margin-right: 50;
+}
+
+.nav-item a {
+  color: #fff;
+  text-decoration: none;
+  
+  transition: color 0.3s ease;
+  font-size: 1vw;
+}
+
+.nav-item a:hover {
+  color: #ffd700;
+}
+

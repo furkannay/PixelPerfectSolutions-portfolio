@@ -1,0 +1,70 @@
+.contact-us-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 70%;
+  height: 10vw;
+  margin: 0 auto; 
+}
+.contact-us-container {
+  margin-top: 5vw;
+  margin-bottom: 5vw;
+}
+
+.contact-card {
+  background-color: rgba(255, 255, 255, 0.3);
+  width: 15vw;
+  height: 10w;
+  padding: 2vw;
+  border: 2px solid #ccc;
+  border-radius: 15px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-icon {
+  font-size: 4vw;
+  color: #00fffb;
+  margin-bottom: 2vw;
+  
+}
+
+.contact-button {
+  font-size: 1vw;
+  background-color: #28a745;
+  color: #fff;
+  padding: 1vw 2vw;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 9vw;
+  height: 3vw;
+  margin-bottom: 2vw;
+  max-width: 90%;
+}
+.contact-info {
+  font-size: 1vw;
+  color: #ffffff;
+}
+
+.contact-info.phone {
+  font-size: 1vw;
+  color: rgb(255, 255, 255);
+  flex-wrap: wrap;
+}
+
+.contact-info.mail {
+  font-size: 1vw;
+  color: rgb(255, 255, 255);
+  flex-wrap: wrap;
+}
+
+.contact-info.location {
+  font-size: 1vw;
+  color: rgb(255, 255, 255);
+}
+
+
