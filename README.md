@@ -27,5 +27,9 @@ This project is developed using React.js to create a responsive and SEO-friendly
 
 https://github.com/furkannay/PixelPerfectSolutions-portfolio/assets/74255322/44c36427-4b59-43a3-bb45-934e07900788
 
+![Açıklama](https://github.com/furkannay/PixelPerfectSolutions-portfolio/assets/74255322/ca7752d7-5056-4331-8784-cf02df65f4bd)
+
+![Açıklama](https://github.com/furkannay/PixelPerfectSolutions-portfolio/assets/74255322/d19c9234-a8bc-4ba9-827e-d29f950ddb2d)
+
 This README file provides a brief overview of the PixelPerfect Solutions website project, highlighting that it is a responsive and SEO-friendly website. For more detailed information about the project, you can explore the codebase and the accompanying screenshots.
 
